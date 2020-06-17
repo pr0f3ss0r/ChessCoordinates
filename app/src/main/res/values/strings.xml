@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ChessCoordinates</string>
+    <string-array name="selectLevel">
+        <item>Beginner</item>
+        <item>Intermediate</item>
+        <item>Advanced</item>
+    </string-array>
+    <string-array name="selectTime">
+        <item>30secs</item>
+        <item>1 min</item>
+        <item>1:30secs</item>
+        <item>2 mins</item>
+        <item>3 mins</item>
+    </string-array>
+</resources>
